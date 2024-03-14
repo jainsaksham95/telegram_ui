@@ -1,5 +1,6 @@
 // src/components/Login.tsx
 import React from 'react';
+import "./style.css"
 
 const Login: React.FC = () => {
   return (

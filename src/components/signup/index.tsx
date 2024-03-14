@@ -1,5 +1,6 @@
 // src/components/Signup.tsx
 import React from 'react';
+import "./style.css"
 
 const Signup: React.FC = () => {
   return (
